@@ -3,6 +3,7 @@
 https://raw.githubusercontent.com/HeaTTheatR/KivyMD-data/master/gallery/kivymddoc/md-label-theme-text-color.png
 
 2) Custom color
+https://www.w3schools.com/colors/colors_rgb.asp
 3) Styles
 https://raw.githubusercontent.com/HeaTTheatR/KivyMD-data/master/gallery/kivymddoc/md-label-font-style.gif
 4) MDIcons
